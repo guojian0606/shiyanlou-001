@@ -1,0 +1,9 @@
+我是可以随便输入么？？？？
+
+
+public class HelloWorld{
+  public static void main(String[] args){
+    System.out.println("HelloWorld!!!");
+  }
+  
+}
